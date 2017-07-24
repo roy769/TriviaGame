@@ -2,17 +2,27 @@
   box-sizing: border-box;
   text-align: center;
 }
+body{
+  width:1200px;
+  height:600px;
+}
 
-iframe {
-  width: 70%;
-  hieght: 60%;
-  frameborder: 2px;
-}
-.quiz {
-  background-color: red;
-}
-body {
+
+img {
+  position: relative;
   width: 80%;
-  height: 60%;
-background: url(C:\Users\dasik\git\TriviaGame\assets\images\steve_background.png);
+  height: 70%;
+  opacity: .666;
+
+}
+.video {
+  margin-top: -50%;
+  position: relative;
+  opacity: .98;
+}
+button {
+  margin: 10px;
+  position: relative;
+width: 1000px;
+height:100px;
 }
