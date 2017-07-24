@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.quiz {
+  background-color: red;
+}
+body {
+  width: 80%;
+  height: 60%;
+background: url(C:\Users\dasik\git\TriviaGame\assets\images\steve_background.png);
+}
