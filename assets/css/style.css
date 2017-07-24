@@ -3,7 +3,7 @@
   text-align: center;
 }
 body{
-  width:1200px;
+  width:1400px;
   height:600px;
 }
 
@@ -11,18 +11,29 @@ body{
 img {
   position: relative;
   width: 80%;
-  height: 70%;
-  opacity: .666;
+  height: 90%;
 
 }
 .video {
-  margin-top: -50%;
+  margin-top: -54%;
   position: relative;
-  opacity: .98;
+  opacity: .90;
 }
 button {
   margin: 10px;
   position: relative;
 width: 1000px;
 height:100px;
+}
+
+#play-video {
+  font-family: 'Plaster', cursive;
+  background: radial-gradient(lime,white,purple);
+  font-size: 48px;
+}
+
+#questions {
+  font-family: 'Amatic SC', cursive;
+  opacity: .666;
+
 }
