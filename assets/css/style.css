@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+iframe {
+  width: 70%;
+  hieght: 60%;
+  frameborder: 2px;
+}
 .quiz {
   background-color: red;
 }
